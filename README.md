@@ -155,7 +155,7 @@ Lastly, you can click `Save K-hedral Tiling` to save the computed K-hedral tilin
 - [Peng Song](https://songpenghit.github.io/)
 
 ## Acknowledgements
-TODO
+We thank the reviewers for their valuable comments. This work was supported by the Singapore MOE AcRF Tier 2 Grant (MOE-T2EP20123-0016).
 
 
 
